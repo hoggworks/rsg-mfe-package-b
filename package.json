@@ -1,5 +1,5 @@
 {
-  "name": "rsg-mfe-package-b",
+  "name": "@hoggworks/rsg-mfe-package-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
